@@ -1,0 +1,56 @@
+#header {
+  background-color: #017691;
+  color: white;
+  text-align: left;
+  padding-left: 10px;
+  padding-bottom: 1px;
+  padding-top:15px;
+  font-family: arial;
+}
+#container {
+  background-color: white;
+  font-family: arial;
+  width: 900px;
+  margin: auto;
+}
+
+#account {
+  color:#017691;
+}
+
+#userfields {
+  padding: 10px;
+  color: black;
+  bold font:#000000;
+}
+
+#name {
+
+}
+
+#value {
+color: gray;
+<hr style="height: 1px; width: 100%; color: #D3D3D3; background-color:#D3D3D3" />
+}
+
+#emailaddress {
+
+}
+
+#password {
+
+}
+
+#personalinformation {
+
+}
+
+#dynamedaccessvia {
+
+}
+
+
+  td {
+    padding: 20px;
+    border: 1px solid #eeeeee;
+}
